@@ -1,0 +1,124 @@
+/* Font Style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+
+/* .banner-img {
+    height: 80vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+} */
+
+.nav-title {
+    color: #3E3E3E;
+    font-size: 24px;
+}
+
+.banner-title {
+    font-size: 48px;
+}
+
+.bannner-text {
+    font-family: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.btn {
+    background-color: white;
+    width: 168px;
+    height: 44px;
+    font-size: 16px;
+}
+
+/* Moment Section */
+
+.moment-text {
+    color: #6C6C6C;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.moment-btn {
+    background-color: #3F87F5;
+    width: 230px;
+    height: 44px;
+    border: none;
+    color: white;
+
+}
+
+.toast-show {
+    width: 263px;
+    height: 42px;
+    color: #3E3E3E;
+    letter-spacing: 0.2px;
+    position: absolute;
+    left: 1066px;
+    top: 882px;
+    background-color: white;
+
+}
+
+.toast-body {
+    font-family: normal;
+    padding: 4px;
+
+}
+
+/* Cards Section */
+
+.list-item li {
+    list-style: none;
+    padding: 5px;
+    color: #848199;
+    font-family: none;
+
+}
+
+.list-item li i {
+    color: #5243C2;
+    background-color: #e9e6e6;
+    border-radius: 15px;
+
+}
+
+.plan-btn {
+    width: 232px;
+    height: 45px;
+    border-radius: 24px;
+    background-color: #e9e6e6;
+    color: #3F87F5;
+    padding: 9px;
+}
+
+#blue-card {
+    background-color: #3F87F5;
+    border-radius: 26px;
+    color: white;
+}
+
+#blue-card ul li {
+    color: white;
+}
+
+.third-card {
+    width: 292px;
+    height: 480px;
+    margin-top: -30px;
+}
+
+/* client Section */
+
+.col-text {
+    color: #6C6C6C;
+    font-family: normal;
+    font-size: 16px;
+}
